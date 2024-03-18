@@ -1,42 +1,6 @@
-* {
-    margin: 0px;
-    padding: 0px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-body{
-    background-image: url(../images/ImagemFundo.jpg);
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-#Titulo {
-    margin: 5px;
-    padding: 15px;
-    text-align: center;
-    color: black;
-    width: 100%;
-    height: 100px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-image: url(../images/Dunnets.jpg);
-}
+
 h3 {
     padding: 8px;
-}
-#links {
-    margin: 5px;
-    background-color: cadetblue;
-    display: flex;
-    justify-content: center;
-}
-A {
-    margin: 10px 10px;
-    text-decoration: none;
-    color:black;
-
 }
 #promocao{
     width: 100%;
@@ -45,7 +9,7 @@ A {
     color: snow;
     margin: 5px;
 }
-#catalogo {
+main {
     width: 80%;
     display: flex;
     flex-direction: row;
